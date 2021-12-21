@@ -1,4 +1,9 @@
 
+--------------------------------FOOTER-------------------------
+Este es mi Archivo y yo soy el Mejor  Programando
+---------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
 Hello Everyone
 Helo people small
 
@@ -11,7 +16,7 @@ Por mas dificil resisitiremos.
 Trabajaremos todos los dias
 Hasta conseguirlo
 Hata ser la empresa mas grande de Tecnologia del mundo 
-
+----------------------------------------------------------------------------------
 
 
 -------------------------------------------------------------------------------------------
